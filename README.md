@@ -29,7 +29,7 @@
 
 <td width="30%" align="center">
 
-<img src="YOUR_IMAGE_URL_HERE"
+<img src="https://github.com/PrathameshHon/PrathameshHon/blob/main/1784189620801.png"
      width="180"
      style="border-radius: 50%; border: 3px solid #0e75b6;" />
 
