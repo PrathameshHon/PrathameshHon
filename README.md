@@ -10,19 +10,32 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Unprof**
-- 🌱 I’m currently learning **DSA and Web Development**
-- 👯 I’m looking to collaborate on **Real World Projects**
-- 👨‍💻 All of my projects:  
-  👉 https://prathameshhon.github.io/portfolio/
-- 📝 I write articles:  
-  👉 https://prathamesh-hon.space-z.ai/
-- 📫 Reach me at: **prathameshhon2007@gmail.com**
-- 📄 My Resume:  
-  👉 https://drive.google.com/file/d/1aGZDbvwh7UGFCKh5k_H6JTNaT1RYa_gh/view?usp=sharing
+<table>
+<tr>
+<td width="70%">
 
----
+- 🔭 I’m currently working on **Unprof**  
+- 🌱 I’m currently learning **DSA and Web Development**  
+- 👯 I’m looking to collaborate on **Real World Projects**  
+- 👨‍💻 All of my projects are available at  
+  👉 https://prathameshhon.github.io/portfolio/  
+- 📝 I regularly write articles on  
+  👉 https://prathamesh-hon.space-z.ai/  
+- 📫 How to reach me **prathameshhon2007@gmail.com**  
+- 📄 Know about my experiences  
+  👉 https://drive.google.com/file/d/1aGZDbvwh7UGFCKh5k_H6JTNaT1RYa_gh/view  
+
+</td>
+
+<td width="30%" align="center">
+
+<img src="YOUR_IMAGE_URL_HERE"
+     width="180"
+     style="border-radius: 50%; border: 3px solid #0e75b6;" />
+
+</td>
+</tr>
+</table>
 
 ### 🌐 Connect With Me
 <p align="center">
