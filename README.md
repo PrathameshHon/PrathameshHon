@@ -20,7 +20,7 @@
 - 👨‍💻 All of my projects are available at  
   👉 https://prathameshhon.github.io/portfolio/  
 - 📝 I regularly write articles on  
-  👉 https://prathamesh-hon.space-z.ai/  
+  👉 https://prathameshhon.vercel.app/
 - 📫 How to reach me **prathameshhon2007@gmail.com**  
 - 📄 Know about my experiences  
   👉 https://drive.google.com/file/d/1aGZDbvwh7UGFCKh5k_H6JTNaT1RYa_gh/view  
