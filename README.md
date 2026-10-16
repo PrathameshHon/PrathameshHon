@@ -29,7 +29,7 @@
 
 <td width="30%" align="center">
 
-<img src="https://github.com/PrathameshHon/PrathameshHon/blob/main/1784189620801.png"
+<img src="https://github.com/PrathameshHon/PrathameshHon/blob/main/ChatGPT%20Image%20Aug%2022%2C%202026%2C%2006_51_10%20PM.jpg"
      width="180"
      style="border-radius: 50%; border: 3px solid #0e75b6;" />
 
