@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Prathamesh Hon — Developer HUD</title>
+  <desc id="desc">Original futuristic blue and cyan interface illustration with a central developer identity panel, orbital rings, circuit lines and subtle animated accents.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07111f"/>
+      <stop offset=".55" stop-color="#0b1830"/>
+      <stop offset="1" stop-color="#06101c"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".15"/>
+      <stop offset=".5" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity=".15"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#60a5fa" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="1" y="1" width="1198" height="298" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <path d="M0 245H1200M0 54H1200" stroke="#38bdf8" stroke-opacity=".12"/>
+    <g fill="none" stroke="#38bdf8" stroke-opacity=".5">
+      <path d="M0 90H150l22 22h90M0 105h125l20 20h70M1200 90h-150l-22 22h-90M1200 105h-125l-20 20h-70"/>
+      <path d="M0 210h150l22-22h90M1200 210h-150l-22-22h-90"/>
+      <path d="M45 0v40l18 18h75M1155 0v40l-18 18h-75"/>
+    </g>
+    <g fill="#67e8f9" opacity=".8">
+      <circle cx="45" cy="90" r="2"/><circle cx="1155" cy="90" r="2"/>
+      <circle cx="45" cy="210" r="2"/><circle cx="1155" cy="210" r="2"/>
+      <circle cx="270" cy="112" r="2"/><circle cx="930" cy="112" r="2"/>
+    </g>
+    <g transform="translate(600 150)" fill="none" stroke="#38bdf8">
+      <circle r="112" stroke-opacity=".13" stroke-width="1"/>
+      <circle r="98" stroke-opacity=".22" stroke-dasharray="3 9"/>
+      <circle r="84" stroke-opacity=".25" stroke-dasharray="1 7"/>
+      <path d="M-112 0h24M88 0h24M0-112v24M0 88v24" stroke-width="2"/>
+      <path d="M-72-72l17 17M72-72L55-55M-72 72l17-17M72 72L55 55" stroke-opacity=".55"/>
+      <circle r="4" fill="#67e8f9" stroke="none" filter="url(#glow)"/>
+      <circle r="98" stroke="#67e8f9" stroke-opacity=".65" stroke-dasharray="70 550">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g text-anchor="middle" font-family="monospace">
+      <text x="600" y="112" fill="#67e8f9" font-size="11" letter-spacing="5">DEVELOPER PROFILE / 001</text>
+      <text x="600" y="157" fill="#f0f9ff" font-size="37" font-weight="700" letter-spacing="1">PRATHAMESH HON</text>
+      <text x="600" y="187" fill="#93c5fd" font-size="13" letter-spacing="4">SOFTWARE DEVELOPER • BUILDER • LEARNER</text>
+      <text x="600" y="225" fill="#67e8f9" font-size="10" letter-spacing="3">SYSTEM ONLINE  //  IDEAS INTO REALITY</text>
+    </g>
+    <g font-family="monospace" font-size="10" fill="#7dd3fc" opacity=".8">
+      <text x="54" y="80">[ PROFILE ]</text><text x="54" y="96">STATUS: ACTIVE</text>
+      <text x="54" y="224">BUILD / LEARN / SHIP</text>
+      <text x="1030" y="80">[ CORE ]</text><text x="1030" y="96">MODE: CREATIVE</text>
+      <text x="1030" y="224">VERSION  //  2026</text>
+    </g>
+    <path d="M18 18h28M18 18v28M1182 18h-28M1182 18v28M18 282h28M18 282v-28M1182 282h-28M1182 282v-28" stroke="#67e8f9" stroke-width="2" fill="none" opacity=".8"/>
+    <rect x="1" y="1" width="1198" height="298" rx="18" fill="none" stroke="url(#edge)" stroke-width="2"/>
+  </g>
+</svg>
