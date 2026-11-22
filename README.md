@@ -106,6 +106,6 @@
 
 <br/><br/>
 
-<img src="assets/prathamesh-hud.svg" width="100%" alt="Decorative HUD footer" />
+<img src="https://github.com/PrathameshHon/PrathameshHon/blob/main/prathamesh-hud.svg" width="100%" alt="Decorative HUD footer" />
 
 </div>
