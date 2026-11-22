@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/prathamesh-hud.svg" width="100%" alt="Prathamesh Hon — futuristic developer HUD banner" />
+<img src="https://github.com/PrathameshHon/PrathameshHon/blob/main/prathamesh-hud.svg" width="100%" alt="Prathamesh Hon — futuristic developer HUD banner" />
 
 <br/>
 
